@@ -1,0 +1,45 @@
+﻿body {
+}
+
+.navbar
+
+{
+
+    padding-bottom: 20px; 
+    padding-top:20px;
+    background-color: aqua;
+}
+
+
+.purple-gradient {
+    background: -webkit-linear-gradient(50deg,#ff6ec4,#7873f5) !important;
+    background: -o-linear-gradient(50deg,#ff6ec4,#7873f5) !important;
+    background: linear-gradient(40deg,#ff6ec4,#7873f5) !important;
+}
+
+.aqua-gradient {
+    background: -webkit-linear-gradient(50deg,#2096ff,#05ffa3) !important;
+    background: -o-linear-gradient(50deg,#2096ff,#05ffa3) !important;
+    background: linear-gradient(40deg,#2096ff,#05ffa3) !important;
+}
+
+.navbar-inverse .navbar-nav > li > a  {
+    border-radius: 15px;
+     
+}
+
+.inputid {
+    height: 10px;
+    width: 256px;
+}
+
+select {
+    
+    HEIGHT: 29PX;
+    WIDTH: 195PX;
+}
+
+ 
+
+
+
